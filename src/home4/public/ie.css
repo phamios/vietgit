@@ -1,0 +1,16 @@
+section#intro-features .content { background: transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#77000000,endColorstr=#77000000); -ms-filter: "progid:DXImageTransform.Microsoft.gradient( startColorstr='#C0000000', endColorstr='#C0000000')"; zoom: 1; }
+#features #list-services li, #features-fridaytalk .talk-preview, #connectors .connector-details { //display: inline; //zoom: 1; }
+#features #list-services li a { //display: block; }
+#features-fridaytalk .talk-preview img { //width: 15%; //margin-right: 10px; }
+section#intro-connectors .content { background: transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#77d90058,endColorstr=#77d90058); -ms-filter: "progid:DXImageTransform.Microsoft.gradient( startColorstr='#C0d90058', endColorstr='#C0d90058')"; zoom: 1; }
+
+.input_holder input { line-height: 40px; }
+.validation input { margin: 0 auto; }
+
+@media only screen and (max-width : 660px) {
+	section#intro-features .content { filter: none; -ms-filter: none; }
+}
+
+@media only screen and (max-width : 960px) {
+	.inspiration .section-media { background-image: url(bg-iphone5-general-small-x1.png); }
+}

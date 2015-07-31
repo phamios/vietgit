@@ -1,0 +1,23 @@
+<modules> 
+    <title>
+        <content>
+            Welcome
+        </content>
+    </title>
+    <functions>
+        <name>index</name>
+        <view>index</view>
+    </functions>
+    <functions>
+        <name>test</name>
+        <view>hallo</view>
+    </functions> 
+    <modules_type>
+        <type>1</type> 
+    </modules_type>
+    <modules_des>
+        <content>
+            Product for site
+        </content>
+    </modules_des>
+</modules>

@@ -1,0 +1,28 @@
+<modules> 
+    <title>
+        <content>
+            Danh mục
+        </content>
+    </title>
+    <functions>
+        <name>index</name>
+        <view>list</view>
+    </functions> 
+    <functions>
+        <name>update</name>
+        <view>update</view>
+    </functions> 
+    <functions>
+        <name>create_new</name>
+        <view>create</view>
+    </functions> 
+    
+    <modules_type>
+        <type>1</type> 
+    </modules_type>
+    <modules_des>
+        <content>
+            Categories of Product
+        </content>
+    </modules_des>
+</modules>
